@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bishar Grocery Shop](https://bishargroceryshop.netlify.app/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **Html Css and javascript**
 
